@@ -1,0 +1,22 @@
+{
+  "name": "laravel-uglify",
+  "version": "1.0.0",
+  "description": "A simple Laravel Exlixir Task that wraps gulp-uglify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "gulp",
+    "gulp-uglify"
+  ],
+  "author": "Simon Doulas si@simondouglas.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglifycss": "^1.0.6",
+    "laravel-elixir": "^6.0.0-15"
+  }
+}
